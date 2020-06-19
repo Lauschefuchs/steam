@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": admin,
+      "password": "admin"
+    },
+    {
+      "name": tim,
+      "password": "123"
+    },
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
