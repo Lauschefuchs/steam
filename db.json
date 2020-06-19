@@ -1,8 +1,8 @@
 {
-  "users": [
+  "posts": [
     {
-      "name": "tim",
-      "password": "test"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
